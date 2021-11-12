@@ -1,10 +1,8 @@
+## Welcome to Hell
 - 👋 Hi, I’m @Dannode36
-- 👀 I’m interested in Unity, Music, AI, and Simulation
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in; Game dev in Unity, Random Kotlin projects, Music, AI, and Simulations
+- 🌱 I currently program in C# and Kotlin, and I'm slowly learning Rust 
 - 📫 How to reach me Crafty_Dan@outlook.com (Please mention you are writing from Github)
-- Current_Project_Name: {NoNameException} [Desc: basic lowpoly survival game. probably looks like a muck rip off... ]
-
-<!---
-Dannode36/Dannode36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Current_Project_Names: 
+- {simple-kotlin-command-parser} [Desc: Simple command parser for a Kotlin command line app...]
+- {The-Knight-In-The-Dark} [Desc: basic lowpoly survival game. probably looks like a muck rip off...]
