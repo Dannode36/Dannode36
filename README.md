@@ -6,5 +6,5 @@
 ### Current_Project_Names: 
 - [KACL](https://github.com/Dannode36/KACL): Kotlin Asyncronous Command Line (says it all).
 - [Diversion](https://dannode36.github.io/Diversion/): Singleplayer (currently) open world, RPG, survial game made in Unity (PRIVATE REPO. LINK GOES TO REPO SITE)
-
+- [Connect 4](https://github.com/Dannode36/connect_4_pc): Connect 4 in Unity with an unbeatable AI mode
 The more I learn, the more I realize how much I don't know ― Albert Einstein
