@@ -1,7 +1,7 @@
 ## Welcome to Hell
 - 👋 Hi, I’m @Dannode36
-- 👀 I’m interested in; Game dev in Unity, Random C# stuff, Music, AI, and Simulations
-- 🌱 I currently program at an intermediate level in C#
+- 👀 I’m interested in; Game dev, ECS, Music, AI, and Simulations
+- 🌱 Knows C# & C++
 - 📫 Contact me at crafty_dan@outlook.com
 ### Current_Project_Names: 
 - [Mincraft Discord Bot](https://github.com/Dannode36/minecraft-discord-bot): 2D Minecraft game in discord.
