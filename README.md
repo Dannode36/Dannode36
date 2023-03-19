@@ -1,6 +1,6 @@
 
 ## <div align="center"> Howdy, I'm Daniel
-<div align="center"> My projects mostly consist of Unity game dev, C# libraries, or bigger projects like [Lunchbox](https://github.com/Dannode36/Lunchbox)
+<div align="center"> My projects mostly consist of Unity game dev and C# libraries
 <div align="center"> Favourite languages include C# and C++
 <div align="center"> 📫 Contact me at crafty_dan@outlook.com 📫
 
